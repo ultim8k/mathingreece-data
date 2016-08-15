@@ -1,0 +1,778 @@
+{
+  "conference": [
+    {
+      "meta": {
+        "title": "10th Geometry and Physics Conference-Quantum Geometry",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2012-08-06T00:00:00.000Z",
+        "endDate": "2012-08-10T00:00:00.000Z",
+        "researchFields": "Geometry, Physics",
+        "location": "Anogeia, Crete, Greece",
+        "link": "http://users.uoa.gr/~iandroul/GAP%202012%20WEBPAGE/GAP2012.html",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "10th Panhellenic Geometry Conference",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2011-05-27T00:00:00.000Z",
+        "endDate": "2011-05-28T00:00:00.000Z",
+        "researchFields": "Geometry",
+        "location": "Rion, Peloponnese, Greece",
+        "link": "http://www.math.upatras.gr/~geomconf11/info-en.html",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "11th Panhellenic Geometry Conference",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2013-05-31T00:00:00.000Z",
+        "endDate": "2013-06-02T00:00:00.000Z",
+        "researchFields": "Geometry",
+        "location": "Athens, Greece",
+        "link": "http://users.uoa.gr/~iandroul/GeomPanhel_Ath2013.html",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "14th International Conference of Numerical Analysis and Applied Mathematics",
+        "subTitle": "The aim of ICNAAM 2016 is to bring together the leading scientists of the international Numerical and  Applied Mathematics community and to attract original research papers of very high quality.",
+        "image": null,
+        "startDate": "2016-09-19T00:00:00.000Z",
+        "endDate": "2016-09-25T00:00:00.000Z",
+        "researchFields": "Numerical Analysis, Applied Mathematics",
+        "location": "Rhodes, Greece",
+        "link": "http://icnaam.org/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "15th Panhellenic Conference of Mathematical Analysis",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2016-05-27T00:00:00.000Z",
+        "endDate": "2016-05-29T00:00:00.000Z",
+        "researchFields": "Analysis",
+        "location": "Heraklion, Crete, Greece",
+        "link": "http://fourier.math.uoc.gr/pcma2016/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "1st Conference of the International Society for NonParametric Statistics",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2012-06-15T00:00:00.000Z",
+        "endDate": "2012-06-19T00:00:00.000Z",
+        "researchFields": "Statistics",
+        "location": "Chalkidiki, Greece",
+        "link": "http://isnpstat.org/firstISNPS/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "1st Nisyros Conference on Automorphic Representations and related topics",
+        "subTitle": "This international conference will focus on automorphic representations and related topics in harmonic analysis.",
+        "image": null,
+        "startDate": "2015-07-12T00:00:00.000Z",
+        "endDate": "2015-07-19T00:00:00.000Z",
+        "researchFields": "Algebra, Geometry",
+        "location": "Nisyros, Greece",
+        "link": "http://sakellar.wix.com/nisyrosmath2015",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "2014 International Conference on Topology and its Applications",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2014-07-03T00:00:00.000Z",
+        "endDate": "2014-07-07T00:00:00.000Z",
+        "researchFields": "Topology",
+        "location": "Nafpaktos, Greece",
+        "link": "http://www.lepantotopology.gr/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "2nd Nisyros Conference on Automorphic Representations and related topics",
+        "subTitle": "This international conference will focus on geometric methods in the theory of automorphic representations.",
+        "image": null,
+        "startDate": "2016-06-13T00:00:00.000Z",
+        "endDate": "2016-06-18T00:00:00.000Z",
+        "researchFields": "Algebra, Geometry",
+        "location": "Nisyros, Greece",
+        "link": "http://www.nisyrosmathconference.org/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "2nd Summer School on Operator Theory",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2012-07-23T00:00:00.000Z",
+        "endDate": "2012-07-28T00:00:00.000Z",
+        "researchFields": "Analysis",
+        "location": "Karlovassi, Samos, Greece",
+        "link": "https://sot2012.pns.aegean.gr/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "3rd Summer School on Operator Theory",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2013-07-08T00:00:00.000Z",
+        "endDate": "2013-07-12T00:00:00.000Z",
+        "researchFields": "Analysis",
+        "location": "Karlovassi, Samos, Greece",
+        "link": "https://sot2013.pns.aegean.gr/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "4th Summer School on Operator Theory",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2015-07-06T00:00:00.000Z",
+        "endDate": "2015-07-10T00:00:00.000Z",
+        "researchFields": "Analysis",
+        "location": "Athens, Greece",
+        "link": "http://users.uoa.gr/~akatavol/4school.html",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "5th International Conference on Numerical Analysis",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2012-09-05T00:00:00.000Z",
+        "endDate": "2012-09-08T00:00:00.000Z",
+        "researchFields": "Numerical Analysis",
+        "location": "Ioannina, Greece",
+        "link": "http://users.uoi.gr/numan2012/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "5th Ph.D. School-Conference on Mathematical Modeling of Complex Systems",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2015-07-20T00:00:00.000Z",
+        "endDate": "2015-07-30T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Patra, Greece",
+        "link": "http://www.math.upatras.gr/~phdsch15/",
+        "type": "conference"
+      },
+      "html": "<p>This Ph.D. School is intended for postgraduate students primarily from European countries (but students from other countries are also invited to apply) and offers four coherent lecture modules, taught by experts in each field, on:</p>\n<p>I. Fundamental Concepts of Complexity\nII. Global Systems Science and Complex Networks\nIII. Complex Physical and Chemical Systems\nIV. Complexity in Biological and Social Sciences</p>\n"
+    },
+    {
+      "meta": {
+        "title": "5th Summer School on Operator Theory",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2016-07-26T00:00:00.000Z",
+        "endDate": "2016-07-30T00:00:00.000Z",
+        "researchFields": "Analysis",
+        "location": "Athens, Greece",
+        "link": "http://users.uoa.gr/~akatavol/5school.html",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "6th International Conference on Numerical Analysis",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2014-09-02T00:00:00.000Z",
+        "endDate": "2014-09-05T00:00:00.000Z",
+        "researchFields": "Numerical Analysis",
+        "location": "Chania, Crete, Greece",
+        "link": "http://numan2014.amcl.tuc.gr/venue.php",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "75th IIER International Conference on Applied Physics and Mathematics (ICAPM)",
+        "subTitle": "ICAPM aims to be one of the leading International conferences for presenting novel and fundamental advances in the fields of Applied Physics and Mathematics. It also serves to foster communication among researchers and practitioners working in a wide variety of scientific areas with a common interest in improving Applied Physics and Mathematics related techniques.",
+        "image": null,
+        "startDate": "2016-08-04T00:00:00.000Z",
+        "endDate": "2016-08-05T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Athens, Greece",
+        "link": "http://theiier.org/Conference/Greece/1/ICAPM/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Algebra meeting 2014",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2014-05-02T00:00:00.000Z",
+        "endDate": "2014-05-03T00:00:00.000Z",
+        "researchFields": "Algebra",
+        "location": "Thessaloniki, Greece",
+        "link": "http://users.auth.gr/users/7/4/004047/public_html/algebraconference2014/conf_web_page.htm",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Coarse-graining of many-body systems: analysis, computations and applications",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2011-06-27T00:00:00.000Z",
+        "endDate": "2011-07-01T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Heraklion, Greece",
+        "link": "http://www.acmac.uoc.gr//CG2011/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Complex and Harmonic Analysis",
+        "subTitle": "A conference in honor of Manolis Katsoprinakis on the occasion of his retirement.",
+        "image": null,
+        "startDate": "2012-09-17T00:00:00.000Z",
+        "endDate": "2012-09-20T00:00:00.000Z",
+        "researchFields": "Analysis",
+        "location": "Heraklion, Greece",
+        "link": "https://sites.google.com/site/katsoprinakes/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Contemporary Algebra and Geometry in Greece",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2012-10-19T00:00:00.000Z",
+        "endDate": "2012-10-20T00:00:00.000Z",
+        "researchFields": "Algebra, Geometry",
+        "location": "Athens, Greece",
+        "link": "http://users.uoa.gr/~iandroul/Algebra&Geometry_Location.html",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Contemporary Algebra and Geometry in Greece",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2016-05-25T00:00:00.000Z",
+        "endDate": "2015-05-26T00:00:00.000Z",
+        "researchFields": "Algebra, Geometry",
+        "location": "Anogeia, Crete, Greece",
+        "link": "http://johnnyplatis.wix.com/sage",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Continuum and kinetic methods in the theory of shocks, fronts, dislocations and interfaces",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2011-06-20T00:00:00.000Z",
+        "endDate": "2011-06-24T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Heraklion, Greece",
+        "link": "http://www.acmac.uoc.gr//CKM2011/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Discontinuous Galerkin Methods for Partial Differential Equations",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2011-09-26T00:00:00.000Z",
+        "endDate": "2011-09-28T00:00:00.000Z",
+        "researchFields": "Differential Equations, Applied Mathematics",
+        "location": "Heraklion, Greece",
+        "link": "http://www.acmac.uoc.gr/GAMPDE2011//",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Ergodic Theory with Connections to Arithmetic",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2013-06-03T00:00:00.000Z",
+        "endDate": "2013-06-07T00:00:00.000Z",
+        "researchFields": "Ergodic Theory",
+        "location": "Heraklion, Crete, Greece",
+        "link": "http://fourier.math.uoc.gr/~ergodic/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Finsler geometry with applications",
+        "subTitle": "A Summer school primarily intended for PhD students and young researchers.",
+        "image": null,
+        "startDate": "2014-09-22T00:00:00.000Z",
+        "endDate": "2014-09-30T00:00:00.000Z",
+        "researchFields": "Geometry, Topology",
+        "location": "Karlovassi, Samos, Greece",
+        "link": "http://myria.math.aegean.gr/conferences/finsler14/",
+        "type": "conference"
+      },
+      "html": "<p>The focus of this Summer School will be on the following thematic areas: Finsler geometry, dynamics, hyperbolic geometry, projective geometry, systolic geometry, Teichmüller theory.</p>\n"
+    },
+    {
+      "meta": {
+        "title": "Finsler geometry with applications to low-dimensional geometry and topology",
+        "subTitle": "A Summer school primarily intended for PhD students and young researchers.",
+        "image": null,
+        "startDate": "2013-06-03T00:00:00.000Z",
+        "endDate": "2013-06-09T00:00:00.000Z",
+        "researchFields": "Geometry, Topology",
+        "location": "Karlovassi, Samos, Greece",
+        "link": "http://myria.math.aegean.gr/conferences/finsler13/",
+        "type": "conference"
+      },
+      "html": "<p>The focus of this Summer School will be on the following thematic areas: Finsler geometry, dynamics, hyperbolic geometry, projective geometry, systolic geometry, Teichmüller theory.</p>\n"
+    },
+    {
+      "meta": {
+        "title": "Geometric Analysis in Samothrace, a tribute to Gérard Besson",
+        "subTitle": "A workshop on Geometry and Analysis for Gérard Besson's sixtieth Birthday.",
+        "image": null,
+        "startDate": "2016-05-30T00:00:00.000Z",
+        "endDate": "2016-06-04T00:00:00.000Z",
+        "researchFields": "Geomety, Analysis",
+        "location": "Samothrace, Greece",
+        "link": "http://besson60.sciencesconf.org/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Geometry Day 2012",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2012-11-17T00:00:00.000Z",
+        "endDate": "2012-11-17T00:00:00.000Z",
+        "researchFields": "Geometry",
+        "location": "Patra, Greece",
+        "link": "http://www.math.upatras.gr/~arvanito/geomday/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Geometry Day 2015",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2015-10-12T00:00:00.000Z",
+        "endDate": "2015-10-12T00:00:00.000Z",
+        "researchFields": "Geometry",
+        "location": "Patra, Greece",
+        "link": "http://www.math.upatras.gr/~arvanito/geomday2015/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Geometry and Topology in Samos",
+        "subTitle": "A conference organized on the occasion of F. T. Farrell's 70th birthday.",
+        "image": null,
+        "startDate": "2012-06-11T00:00:00.000Z",
+        "endDate": "2012-06-15T00:00:00.000Z",
+        "researchFields": "Geometry, Topology",
+        "location": "Karlovassi, Samos, Greece",
+        "link": "http://myria.math.aegean.gr/conferences/topology12/",
+        "type": "conference"
+      },
+      "html": "<p>The focus of this conference is the classification of manifolds, including both topological and geometric aspects. The central rigidity conjecture is the Farrell-Jones Conjecture, which generalizes both the Novikov and Borel rigidity conjectures. The conference will bring together researchers who use geometric methods to study topological problems with researchers who use topological methods to study geometric problems. Examples of the former are high-dimensional topologists and examples of the latter are geometric group theorists and differential geometers.</p>\n"
+    },
+    {
+      "meta": {
+        "title": "Hierarchical Models and Markov Chain Monte Carlo",
+        "subTitle": "A conference in honour of Adrian F. M. Smith",
+        "image": null,
+        "startDate": "2011-06-02T00:00:00.000Z",
+        "endDate": "2011-06-05T00:00:00.000Z",
+        "researchFields": "Differential Equations, Applied Mathematics",
+        "location": "Limenas Hersonissou, Heraklion, Greece",
+        "link": "http://www.afmsmith.com/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "International Conference on Applied Mathematics",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2013-09-16T00:00:00.000Z",
+        "endDate": "2013-09-20T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Heraklion, Crete, Greece",
+        "link": "http://www.acmac.uoc.gr/ICAM2013/symposia.php?demo=1#ASPS",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Modern Mathematical Methods in Science and Technology 2012",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2012-08-26T00:00:00.000Z",
+        "endDate": "2012-08-28T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Kalamata, Greece",
+        "link": "http://noether.math.uoa.gr/m3st/index.php?conference=m3st&schedConf=m3st2012",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Modern Mathematical Methods in Science and Technology 2015",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2015-08-30T00:00:00.000Z",
+        "endDate": "2015-09-01T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Kalamata, Greece, Greece",
+        "link": "http://noether.math.uoa.gr/conferences/m3st2015/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Modern techniques in the Numerical Solution of Partial Differential Equations",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2011-09-19T00:00:00.000Z",
+        "endDate": "2011-09-23T00:00:00.000Z",
+        "researchFields": "Differential Equations, Applied Mathematics",
+        "location": "Heraklion, Greece",
+        "link": "http://acmac.uoc.gr/NUMPDE2011/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Numerical Linear Algebra Day",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2011-11-10T00:00:00.000Z",
+        "endDate": "2011-11-10T00:00:00.000Z",
+        "researchFields": "Algebra",
+        "location": "Athens, Greece",
+        "link": "http://users.uoa.gr/~mmitroul/NLA11/NLANOV11.htm",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "One Day Workshop on Numerical Linear Algebra",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2013-07-03T00:00:00.000Z",
+        "endDate": "2013-07-03T00:00:00.000Z",
+        "researchFields": "Algebra",
+        "location": "Athens, Greece",
+        "link": "http://users.uoa.gr/~mmitroul/WNLA13/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "One-day Workshop on Probability and Statistics",
+        "subTitle": "Dedicated to Professors Emeriti Charalambos A. Charalambides and Ourania Chryssafinou on their retirement.",
+        "image": null,
+        "startDate": "2013-06-17T00:00:00.000Z",
+        "endDate": "2013-06-17T00:00:00.000Z",
+        "researchFields": "Probability, Statistics",
+        "location": "Athens, Greece",
+        "link": "http://users.uoa.gr/~npapadat/workshop/index.html",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Reaction-Diffusion Systems with Gradient Structure",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2013-03-18T00:00:00.000Z",
+        "endDate": "2013-03-21T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Athens, Greece",
+        "link": "http://users.uoa.gr/~nalikako/rds2013/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Representation theory in Samos",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2016-07-04T00:00:00.000Z",
+        "endDate": "2016-07-08T00:00:00.000Z",
+        "researchFields": "Representation theory",
+        "location": "Karlovassi, Samos, Greece",
+        "link": "http://chlouveraki.perso.math.cnrs.fr/samos/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Statistics meeting 2015",
+        "subTitle": "A conference in memory of professor Vasilis Klonias.",
+        "image": null,
+        "startDate": "2015-06-26T00:00:00.000Z",
+        "endDate": "2015-06-27T00:00:00.000Z",
+        "researchFields": "Statistics",
+        "location": "Heraklion, Greece",
+        "link": "http://fourier.math.uoc.gr/statconf/main/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Stochastic Methods in Finance and Physics",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2015-07-20T00:00:00.000Z",
+        "endDate": "2015-07-24T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Heraklion, Greece",
+        "link": "http://www.acmac.uoc.gr/SMFP2015/index.php",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "The ACMAC Workshop on Stochastic Partial Differential Equations",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2011-06-13T00:00:00.000Z",
+        "endDate": "2011-06-17T00:00:00.000Z",
+        "researchFields": "Differential Equations, Applied Mathematics",
+        "location": "Heraklion, Greece",
+        "link": "http://www.acmac.uoc.gr//SPDE2011/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Universal Functions 2015",
+        "subTitle": "Dedicated to Vassili Nestoridis on the occasion of his 65th birthday.",
+        "image": null,
+        "startDate": "2015-05-18T00:00:00.000Z",
+        "endDate": "2015-05-22T00:00:00.000Z",
+        "researchFields": "Analysis",
+        "location": "Heraklion, Greece",
+        "link": "http://uf2015.math.uoc.gr/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Universal Functions and Hypercyclic Operators 2011",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2011-07-04T00:00:00.000Z",
+        "endDate": "2011-07-08T00:00:00.000Z",
+        "researchFields": "Analysis",
+        "location": "Heraklion, Greece",
+        "link": "http://users.math.uoc.gr/~ufho2011/index.html",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Wave propagation in complex media and applications",
+        "subTitle": "A conference in honour of Adrian F. M. Smith",
+        "image": null,
+        "startDate": "2012-05-07T00:00:00.000Z",
+        "endDate": "2012-05-11T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Heraklion, Greece",
+        "link": "http://www.acmac.uoc.gr/WAVES2012/index.html",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Women in Applied Mathematics",
+        "subTitle": "The aim of this workshop is to promote applied mathematics in Greece in general and among young women looking for a career in science in particular. To do so, we will bring together senior as well as junior women researchers from various areas of Applied Mathematics.",
+        "image": null,
+        "startDate": "2011-05-02T00:00:00.000Z",
+        "endDate": "2011-05-05T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Heraklion, Crete, Greece",
+        "link": "http://acmac.tem.uoc.gr/WAM2011/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Workshop on Convex Geometric Analysis",
+        "subTitle": "On the occasion of the retirement of Professor Souzana Papadopoulou.",
+        "image": null,
+        "startDate": "2012-09-10T00:00:00.000Z",
+        "endDate": "2012-09-13T00:00:00.000Z",
+        "researchFields": "Analysis",
+        "location": "Heraklion, Greece",
+        "link": "http://fourier.math.uoc.gr/~convex/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Workshop on Evolution Equations",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2014-09-24T00:00:00.000Z",
+        "endDate": "2014-09-24T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Heraklion, Crete, Greece",
+        "link": "http://users.tem.uoc.gr/~danton/workshop_24-9-14.html",
+        "type": "conference"
+      },
+      "html": ""
+    }
+  ],
+  "seminar": [
+    {
+      "meta": {
+        "title": "Analysis Seminar in Crete",
+        "subTitle": "",
+        "image": null,
+        "researchFields": "Analysis",
+        "location": "Heraklion, Greece",
+        "link": "http://fourier.math.uoc.gr/~seminar/analysis.php",
+        "type": "seminar"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Arithmetic Geometry Seminar",
+        "subTitle": "",
+        "image": null,
+        "researchFields": "Algebra, Geometry",
+        "location": "Athens, Greece",
+        "link": "http://www.math.ntua.gr/~sakellar/grothendieck-new.png",
+        "type": "seminar"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Mathematical methods in Classical Mechanics Seminar",
+        "subTitle": "",
+        "image": null,
+        "researchFields": "Mathematical Physics",
+        "location": "Athens, Greece",
+        "link": "http://www.math.ntua.gr/~sakellar/mechanics.png",
+        "type": "seminar"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Numerical Analysis and Scientific Computing Seminar",
+        "subTitle": "",
+        "image": null,
+        "researchFields": "Analysis, Applied Mathematics",
+        "location": "Heraklion, Greece",
+        "link": "http://users.math.uoc.gr/~chatzipa/nascar.html",
+        "type": "seminar"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Operator Algebras Seminar",
+        "subTitle": "",
+        "image": null,
+        "researchFields": "Analysis",
+        "location": "Athens, Greece",
+        "link": "http://users.uoa.gr/%7Eakatavol/anak1516.html",
+        "type": "seminar"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "University of Crete-Department of Mathematics and Applied Mathematics Colloquium",
+        "subTitle": "",
+        "image": null,
+        "researchFields": "Analysis, Algebra, Geometry, Applied Mathematics",
+        "location": "Heraklion, Greece",
+        "link": "http://fourier.math.uoc.gr/~seminar/colloquium.php",
+        "type": "seminar"
+      },
+      "html": ""
+    }
+  ]
+}
