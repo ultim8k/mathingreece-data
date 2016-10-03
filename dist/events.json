@@ -2,6 +2,34 @@
   "conference": [
     {
       "meta": {
+        "title": "10th Annual International Conference on Mathematics: Teaching, Theory & Applications",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2016-06-27T00:00:00.000Z",
+        "endDate": "2016-06-30T00:00:00.000Z",
+        "researchFields": "Education of Mathematics",
+        "location": "Athens, Greece",
+        "link": "http://www.nature.com/natureevents/science/events/38193-10th_Annual_International_Conference_on_Mathematics_Teaching_Theory_Applications",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "10th Annual Workshop on Numerical Methods for Problems with Layer Phenomena",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2013-05-23T00:00:00.000Z",
+        "endDate": "2013-05-24T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Larnaca, Cyprus",
+        "link": "http://www.mas.ucy.ac.cy/~xenophon/workshop/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
         "title": "10th Geometry and Physics Conference-Quantum Geometry",
         "subTitle": "",
         "image": null,
@@ -10,6 +38,20 @@
         "researchFields": "Geometry, Physics",
         "location": "Anogeia, Crete, Greece",
         "link": "http://users.uoa.gr/~iandroul/GAP%202012%20WEBPAGE/GAP2012.html",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "10th International Conference on Algorithms and Complexity",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2017-05-26T00:00:00.000Z",
+        "endDate": "2017-05-28T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Athens, Greece",
+        "link": "http://www.corelab.ntua.gr/ciac2017/",
         "type": "conference"
       },
       "html": ""
@@ -30,6 +72,34 @@
     },
     {
       "meta": {
+        "title": "10th Panhellenic Logic Symposium",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2015-06-11T00:00:00.000Z",
+        "endDate": "2015-06-15T00:00:00.000Z",
+        "researchFields": "Logic",
+        "location": "Samos, Greece",
+        "link": "https://samosweb.aegean.gr/pls10/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "11th Annual International Conference on Mathematics: Teaching, Theory & Applications",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2017-06-26T00:00:00.000Z",
+        "endDate": "2017-06-29T00:00:00.000Z",
+        "researchFields": "Education of Mathematics",
+        "location": "Athens, Greece",
+        "link": "http://www.atiner.gr/mathematics",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
         "title": "11th Panhellenic Geometry Conference",
         "subTitle": "",
         "image": null,
@@ -38,6 +108,34 @@
         "researchFields": "Geometry",
         "location": "Athens, Greece",
         "link": "http://users.uoa.gr/~iandroul/GeomPanhel_Ath2013.html",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "12th AHA International Conference-Algebraic Hyperstructures and its Applications",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2014-09-01T00:00:00.000Z",
+        "endDate": "2014-09-07T00:00:00.000Z",
+        "researchFields": "Algebra, Geometry, Applied Mathematics",
+        "location": "Xanthi, Greece",
+        "link": "http://www.euro-math-soc.eu/event/mon-1-sep-14-1900/12th-aha-international-conference-algebraic-hyperstructures-and-its",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "12th Panhellenic Congress of Geometry",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2015-05-29T00:00:00.000Z",
+        "endDate": "2015-05-31T00:00:00.000Z",
+        "researchFields": "Analysis",
+        "location": "Thessaloniki, Greece",
+        "link": "http://12-psg.math.auth.gr/",
         "type": "conference"
       },
       "html": ""
@@ -72,6 +170,20 @@
     },
     {
       "meta": {
+        "title": "1st Athens Probability Colloquium",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2012-12-01T00:00:00.000Z",
+        "endDate": "2012-12-01T00:00:00.000Z",
+        "researchFields": "Probability",
+        "location": "Athens, Greece",
+        "link": "http://pages.cs.aueb.gr/~yiannisk/APC/index.htm",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
         "title": "1st Conference of the International Society for NonParametric Statistics",
         "subTitle": "",
         "image": null,
@@ -80,6 +192,20 @@
         "researchFields": "Statistics",
         "location": "Chalkidiki, Greece",
         "link": "http://isnpstat.org/firstISNPS/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "1st International Workshop on Line Geometry and Kinematics",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2011-04-26T00:00:00.000Z",
+        "endDate": "2011-04-30T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Paphos, Cyprus",
+        "link": "http://www.math.tu-dresden.de/IW-LGK-11/",
         "type": "conference"
       },
       "html": ""
@@ -114,6 +240,90 @@
     },
     {
       "meta": {
+        "title": "24th Panhellenic Statistics Conference",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2011-04-27T00:00:00.000Z",
+        "endDate": "2011-05-01T00:00:00.000Z",
+        "researchFields": "Statistics",
+        "location": "Patra, Greece",
+        "link": "http://www.math.upatras.gr/esi2011/Index_en.html",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "27th Panhellenic Statistics Conference",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2014-04-23T00:00:00.000Z",
+        "endDate": "2014-04-26T00:00:00.000Z",
+        "researchFields": "Statistics",
+        "location": "Thessaloniki, Greece",
+        "link": "https://sites.google.com/site/27pss2014/home",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "29th Panhellenic Statistics Conference",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2016-05-04T00:00:00.000Z",
+        "endDate": "2016-05-07T00:00:00.000Z",
+        "researchFields": "Statistics",
+        "location": "Naousa, Greece",
+        "link": "https://sites.google.com/site/29pss2016/home",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "2nd Athens Probability Colloquium",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2014-05-31T00:00:00.000Z",
+        "endDate": "2014-05-31T00:00:00.000Z",
+        "researchFields": "Probability",
+        "location": "Athens, Greece",
+        "link": "http://pages.cs.aueb.gr/~yiannisk/APC2/index.htm",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "2nd International Conference on Cryptography, Network Security and Applications in armed forces",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2014-04-02T00:00:00.000Z",
+        "endDate": "2014-04-02T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Athens, Greece",
+        "link": null,
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "2nd International workshop on integer valued Time Series",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2011-06-19T00:00:00.000Z",
+        "endDate": "2011-06-21T00:00:00.000Z",
+        "researchFields": "Statistics",
+        "location": "Protaras, Cyprus",
+        "link": "http://www.mas.ucy.ac.cy/~wints2011/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
         "title": "2nd Nisyros Conference on Automorphic Representations and related topics",
         "subTitle": "This international conference will focus on geometric methods in the theory of automorphic representations.",
         "image": null,
@@ -142,6 +352,48 @@
     },
     {
       "meta": {
+        "title": "3rd Athens Probability Colloquium",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2015-05-09T00:00:00.000Z",
+        "endDate": "2015-05-09T00:00:00.000Z",
+        "researchFields": "Probability",
+        "location": "Athens, Greece",
+        "link": "http://pages.cs.aueb.gr/users/yiannisk/APC3/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "3rd International Conference on Cryptography, Cyber-Security and Information Warfare",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2016-05-26T00:00:00.000Z",
+        "endDate": "2016-05-27T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Athens, Greece",
+        "link": null,
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "3rd Meeting on Statistics",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2015-06-24T00:00:00.000Z",
+        "endDate": "2015-06-26T00:00:00.000Z",
+        "researchFields": "Statistics",
+        "location": "Athens, Greece",
+        "link": "http://stat-athens.aueb.gr/~athens-meeting-stats/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
         "title": "3rd Summer School on Operator Theory",
         "subTitle": "",
         "image": null,
@@ -150,6 +402,20 @@
         "researchFields": "Analysis",
         "location": "Karlovassi, Samos, Greece",
         "link": "https://sot2013.pns.aegean.gr/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "4th Athens Probability Colloquium",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2016-05-28T00:00:00.000Z",
+        "endDate": "2016-05-28T00:00:00.000Z",
+        "researchFields": "Probability",
+        "location": "Athens, Greece",
+        "link": "http://pages.cs.aueb.gr/~yiannisk/APC4/",
         "type": "conference"
       },
       "html": ""
@@ -226,6 +492,20 @@
     },
     {
       "meta": {
+        "title": "6th Workshop on Group Analysis and Differential Equations",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2012-06-17T00:00:00.000Z",
+        "endDate": "2012-06-21T00:00:00.000Z",
+        "researchFields": "Analysis, Differential Equations",
+        "location": "Protaras, Cyprus",
+        "link": "http://www.mas.ucy.ac.cy/~symmetry/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
         "title": "75th IIER International Conference on Applied Physics and Mathematics (ICAPM)",
         "subTitle": "ICAPM aims to be one of the leading International conferences for presenting novel and fundamental advances in the fields of Applied Physics and Mathematics. It also serves to foster communication among researchers and practitioners working in a wide variety of scientific areas with a common interest in improving Applied Physics and Mathematics related techniques.",
         "image": null,
@@ -240,6 +520,132 @@
     },
     {
       "meta": {
+        "title": "7th Athens Colloquium on Algorithms and Complexity",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2012-08-27T00:00:00.000Z",
+        "endDate": "2012-08-28T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Athens, Greece",
+        "link": null,
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "7th Conference in Actuarial Science & Finance on Samos",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2012-05-28T00:00:00.000Z",
+        "endDate": "2012-06-03T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Samos, Greece",
+        "link": "http://www.actuar.aegean.gr/samos2012/index1.html",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "7th Workshop on Group Analysis and Differential Equations",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2014-06-15T00:00:00.000Z",
+        "endDate": "2014-06-19T00:00:00.000Z",
+        "researchFields": "Analysis, Differential Equations",
+        "location": "Larnaca, Cyprus",
+        "link": "http://www.mas.ucy.ac.cy/~symmetry/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "8th Conference in Actuarial Science & Finance on Samos",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2014-05-29T00:00:00.000Z",
+        "endDate": "2014-06-01T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Samos, Greece",
+        "link": "http://www.actuar.aegean.gr/samos2014/index1.html",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "8th Panhellenic Logic Symposium",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2011-07-04T00:00:00.000Z",
+        "endDate": "2011-07-08T00:00:00.000Z",
+        "researchFields": "Logic",
+        "location": "Ioannina, Greece",
+        "link": "http://www.cs.uoi.gr/~pls8/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "8th Workshop on Group Analysis and Differential Equations",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2016-06-12T00:00:00.000Z",
+        "endDate": "2016-06-17T00:00:00.000Z",
+        "researchFields": "Analysis, Differential Equations",
+        "location": "Larnaca, Cyprus",
+        "link": "http://www.mas.ucy.ac.cy/~symmetry/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "9th Conference in Actuarial Science & Finance on Samos",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2016-05-18T00:00:00.000Z",
+        "endDate": "2016-05-22T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Samos, Greece",
+        "link": "http://samosweb.aegean.gr/actuar/project/samos2016/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "9th Panhellenic Logic Symposium",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2013-07-15T00:00:00.000Z",
+        "endDate": "2013-07-18T00:00:00.000Z",
+        "researchFields": "Logic",
+        "location": "Athens, Greece",
+        "link": "http://pls9.cs.ntua.gr/history.html",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Actuarial Science & Risk Measures Workshop",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2011-05-14T00:00:00.000Z",
+        "endDate": "2011-05-14T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Pireas, Greece",
+        "link": "http://stat-athens.aueb.gr/~grstats/conf/Actuarial_%20Workshop%2014%20May%202011.pdf",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
         "title": "Algebra meeting 2014",
         "subTitle": "",
         "image": null,
@@ -248,6 +654,76 @@
         "researchFields": "Algebra",
         "location": "Thessaloniki, Greece",
         "link": "http://users.auth.gr/users/7/4/004047/public_html/algebraconference2014/conf_web_page.htm",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Algebraic modeling of topological and computational structures",
+        "subTitle": "A 3-day workshop dedicated to the dissemination of the deliverables of the research project Thales.",
+        "image": null,
+        "startDate": "2015-07-01T00:00:00.000Z",
+        "endDate": "2015-07-03T00:00:00.000Z",
+        "researchFields": "Geometry, Applied Mathematics",
+        "location": "Athens, Greece",
+        "link": "http://www.math.ntua.gr/~sofia/ThalisSite/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Algorithmic Game Theory in Athens 2015 (AGaThA)",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2015-05-27T00:00:00.000Z",
+        "endDate": "2015-05-27T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Athens, Greece",
+        "link": "http://www.corelab.ntua.gr/agatha2015/#program",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Algorithmic Game Theory in Athens 2016 (AGaThA)",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2016-07-20T00:00:00.000Z",
+        "endDate": "2016-07-20T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Athens, Greece",
+        "link": "http://corelab.ntua.gr/agatha2016/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Analysis Summer Meeting",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2015-06-25T00:00:00.000Z",
+        "endDate": "2015-06-26T00:00:00.000Z",
+        "researchFields": "Analysis",
+        "location": "Thessaloniki, Greece",
+        "link": "http://users.auth.gr/betsakos/ASM2015",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Applications of Computer Algebra",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2015-07-20T00:00:00.000Z",
+        "endDate": "2015-07-23T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Kalamata, Greece",
+        "link": "http://www.singacom.uva.es/ACA2015/program.html",
         "type": "conference"
       },
       "html": ""
@@ -276,6 +752,34 @@
         "researchFields": "Analysis",
         "location": "Heraklion, Greece",
         "link": "https://sites.google.com/site/katsoprinakes/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Computational Complex Analysis and Approximation Theory (CCAAT 2011)",
+        "subTitle": "A conference in honor of Professor N. Papamichael.",
+        "image": null,
+        "startDate": "2011-06-05T00:00:00.000Z",
+        "endDate": "2011-06-11T00:00:00.000Z",
+        "researchFields": "Analysis",
+        "location": "Protaras, Cyprus",
+        "link": null,
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Conference on Ordered Spaces and Applications",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2011-11-25T00:00:00.000Z",
+        "endDate": "2011-11-27T00:00:00.000Z",
+        "researchFields": "Analysis, Applied Mathematics",
+        "location": "Athens, Greece",
+        "link": "http://users.ntua.gr/equilibr/order_conf.html",
         "type": "conference"
       },
       "html": ""
@@ -318,6 +822,20 @@
         "researchFields": "Applied Mathematics",
         "location": "Heraklion, Greece",
         "link": "http://www.acmac.uoc.gr//CKM2011/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Cryptography and Applications in armed forces",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2012-04-06T00:00:00.000Z",
+        "endDate": "2012-04-06T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Athens, Greece",
+        "link": null,
         "type": "conference"
       },
       "html": ""
@@ -436,6 +954,90 @@
     },
     {
       "meta": {
+        "title": "Greek Stochastics γ",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2011-05-30T00:00:00.000Z",
+        "endDate": "2011-06-01T00:00:00.000Z",
+        "researchFields": "Statistics",
+        "location": "Crete, Greece",
+        "link": "http://www.stochastics.gr/meetings/gamma/index.html",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Greek Stochastics δ",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2012-08-25T00:00:00.000Z",
+        "endDate": "2012-08-28T00:00:00.000Z",
+        "researchFields": "Statistics",
+        "location": "Kalamata, Greece",
+        "link": "http://www.stochastics.gr/meetings/delta/index.html",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Greek Stochastics ε",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2013-07-06T00:00:00.000Z",
+        "endDate": "2013-07-08T00:00:00.000Z",
+        "researchFields": "Statistics",
+        "location": "Kalamata, Greece",
+        "link": "http://www.stochastics.gr/meetings/epsilon/index.html",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Greek Stochastics ζ",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2014-12-20T00:00:00.000Z",
+        "endDate": "2014-12-22T00:00:00.000Z",
+        "researchFields": "Statistics",
+        "location": "Kalamata, Greece",
+        "link": "http://www.stochastics.gr/meetings/zeta/index.html",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Greek Stochastics η",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2015-07-11T00:00:00.000Z",
+        "endDate": "2015-07-13T00:00:00.000Z",
+        "researchFields": "Statistics",
+        "location": "Chania, Greece",
+        "link": "http://www.stochastics.gr/meetings/eta/index.html",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Greek Stochastics θ",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2016-07-10T00:00:00.000Z",
+        "endDate": "2016-07-13T00:00:00.000Z",
+        "researchFields": "Statistics",
+        "location": "Tinos, Greece",
+        "link": "http://www.stochastics.gr/meetings/theta/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
         "title": "Hierarchical Models and Markov Chain Monte Carlo",
         "subTitle": "A conference in honour of Adrian F. M. Smith",
         "image": null,
@@ -458,6 +1060,76 @@
         "researchFields": "Applied Mathematics",
         "location": "Heraklion, Crete, Greece",
         "link": "http://www.acmac.uoc.gr/ICAM2013/symposia.php?demo=1#ASPS",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "International Conference on Differential Equations, Difference Equations and Special Functions",
+        "subTitle": "In memory of Professor Panayiotis D. Siafarikas.",
+        "image": null,
+        "startDate": "2012-09-03T00:00:00.000Z",
+        "endDate": "2012-09-07T00:00:00.000Z",
+        "researchFields": "Differential Equations",
+        "location": "Patras, Greece",
+        "link": "http://www.icddesf.upatras.gr/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "International Conference on Statistical Physics",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2011-07-11T00:00:00.000Z",
+        "endDate": "2011-07-15T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Larnaca, Cyprus",
+        "link": "http://www.sigmaphi.polito.it/2011/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "International workshop on recent advances in Time Series Analysis",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2012-06-09T00:00:00.000Z",
+        "endDate": "2012-06-12T00:00:00.000Z",
+        "researchFields": "Statistics",
+        "location": "Protaras, Cyprus",
+        "link": "http://euclid.mas.ucy.ac.cy/~rats2012/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Journée for the 100 years since Papakyriakopoulos' birth",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2014-12-22T00:00:00.000Z",
+        "endDate": "2014-12-22T00:00:00.000Z",
+        "researchFields": "Geometry",
+        "location": "Athens, Greece",
+        "link": "http://147.102.206.2/~papafest/",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Knots in Hellas 2016",
+        "subTitle": "An international conference on Knots, Low-dimensional topology and applications",
+        "image": null,
+        "startDate": "2016-07-17T00:00:00.000Z",
+        "endDate": "2016-07-23T00:00:00.000Z",
+        "researchFields": "Geometry",
+        "location": "Ancient Olympia, Greece",
+        "link": "http://www.math.ntua.gr/~sofia/KnotsinHellas2016/",
         "type": "conference"
       },
       "html": ""
@@ -604,6 +1276,20 @@
     },
     {
       "meta": {
+        "title": "Summer school in Bayesian Modeling and Variable Selection using Winbugs & R",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2015-06-22T00:00:00.000Z",
+        "endDate": "2015-06-23T00:00:00.000Z",
+        "researchFields": "Statistics",
+        "location": "Athens, Greece",
+        "link": "http://stat-athens.aueb.gr/~athens-meeting-stats/winbugs_2015/home.html",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
         "title": "The ACMAC Workshop on Stochastic Partial Differential Equations",
         "subTitle": "",
         "image": null,
@@ -674,6 +1360,48 @@
     },
     {
       "meta": {
+        "title": "Workshop on Algebraic Foundations in Computer Science",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2011-11-07T00:00:00.000Z",
+        "endDate": "2011-11-08T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Thessaloniki, Greece",
+        "link": null,
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Workshop on Analysis of PDEs: Theory, Methods and Applications",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2014-06-29T00:00:00.000Z",
+        "endDate": "2014-07-03T00:00:00.000Z",
+        "researchFields": "Differential Equations, Applied Mathematics",
+        "location": "Protaras, Cyprus",
+        "link": "http://www.mas.ucy.ac.cy/~emilakis/Workshop2014/AnalysisPDES.htm",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Workshop on Contemporary Differential Geometry",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2014-09-24T00:00:00.000Z",
+        "endDate": "2014-09-27T00:00:00.000Z",
+        "researchFields": "Geometry",
+        "location": "Ioannina, Greece",
+        "link": "http://users.uoi.gr/tvlachos/w-conference.html",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
         "title": "Workshop on Convex Geometric Analysis",
         "subTitle": "On the occasion of the retirement of Professor Souzana Papadopoulou.",
         "image": null,
@@ -696,6 +1424,20 @@
         "researchFields": "Applied Mathematics",
         "location": "Heraklion, Crete, Greece",
         "link": "http://users.tem.uoc.gr/~danton/workshop_24-9-14.html",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Workshop on Toda, Lotka-Volterra and related systems",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2014-10-21T00:00:00.000Z",
+        "endDate": "2014-10-23T00:00:00.000Z",
+        "researchFields": "Applied Mathematics",
+        "location": "Larnaca, Cyprus",
+        "link": null,
         "type": "conference"
       },
       "html": ""
@@ -722,6 +1464,42 @@
         "researchFields": "Algebra, Geometry",
         "location": "Athens, Greece",
         "link": "http://www.math.ntua.gr/~sakellar/grothendieck-new.png",
+        "type": "seminar"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Department Colloquium-University of Ioannina",
+        "subTitle": "",
+        "image": null,
+        "researchFields": "Analysis, Algebra, Geometry, Logic, Applied Mathematics",
+        "location": "Ioannina, Greece",
+        "link": "http://www.math.uoi.gr/GR/news/seminaria.html",
+        "type": "seminar"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Differential Geometry Seminar",
+        "subTitle": "",
+        "image": null,
+        "researchFields": "Geometry",
+        "location": "Ioannina, Greece",
+        "link": "http://users.uoi.gr/tvlachos/seminar.html",
+        "type": "seminar"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Division of Mathematics Seminar",
+        "subTitle": "",
+        "image": null,
+        "researchFields": "Analysis, Algebra, Geometry, Logic, Applied Mathematics",
+        "location": "Athens, Greece",
+        "link": "http://147.102.206.2/%7Eseminaria/index/Current.html",
         "type": "seminar"
       },
       "html": ""
@@ -758,6 +1536,30 @@
         "researchFields": "Analysis",
         "location": "Athens, Greece",
         "link": "http://users.uoa.gr/%7Eakatavol/anak1516.html",
+        "type": "seminar"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "Seminar on Theoretical Computer Science and Discrete Mathematics",
+        "subTitle": "",
+        "image": null,
+        "researchFields": "Applied Mathematics",
+        "location": "Thessaloniki, Greece",
+        "link": "http://users.auth.gr/grahonis/Seminar_TCS.html",
+        "type": "seminar"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
+        "title": "The Analysis Seminar in Thessaloniki",
+        "subTitle": "",
+        "image": null,
+        "researchFields": "Analysis",
+        "location": "Thessaloniki, Greece",
+        "link": "http://users.auth.gr/betsakos/AnalysisSeminar.htm",
         "type": "seminar"
       },
       "html": ""
