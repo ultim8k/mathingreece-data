@@ -1,0 +1,33 @@
+{
+  "conference": [
+    {
+      "meta": {
+        "title": "Conference Title",
+        "subTitle": "Extended Title",
+        "conferenceImage": "https://link/to/conference/image.jpg",
+        "startDate": "2015-07-12T00:00:00.000Z",
+        "endDate": "2015-07-12T00:00:00.000Z",
+        "researchFields": "comma, separated, fields",
+        "location": "Chania, Greece",
+        "conferenceLink": "http://link-to-conference.com",
+        "type": "conference"
+      },
+      "html": "<p>Conference description is here</p>\n<p>This is the first conference</p>\n<p>This contains some $$LaTeX$$ code</p>\n<p>This $$LaTeX$$ code is a block: \n$$y^(a+b)^$$</p>\n<p>This $$LaTeX$$ code is inline: $$x~y,z~$$</p>\n<p>This $$LaTeX$$ code is inline too: &quot;$$y = x^2 \\hbox{ when $x &gt; 2$}$$&quot;.</p>\n<p><a href=\"http://www.youtube.com/watch?v=AEq62iQo0eU\"><img src=\"http://img.youtube.com/vi/AEq62iQo0eU/0.jpg\" alt=\"Johnny Be Goode\"></a></p>\n<p>(╯ಠ□ಠ）╯︵ ┻━┻</p>\n"
+    },
+    {
+      "meta": {
+        "title": "Conference Title",
+        "subTitle": "Extended Title",
+        "conferenceImage": "https://link/to/conference/image.jpg",
+        "startDate": "2015-07-12T00:00:00.000Z",
+        "endDate": "2015-07-12T00:00:00.000Z",
+        "researchFields": "comma, separated, fields",
+        "location": "Chania, Greece",
+        "conferenceLink": "http://link-to-conference.com",
+        "type": "conference"
+      },
+      "html": "<p>Conference description is here</p>\n"
+    }
+  ],
+  "seminar": []
+}

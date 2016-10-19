@@ -5,7 +5,7 @@ image:
 startDate: 2015-08-30
 endDate: 2015-09-01
 researchFields: Applied Mathematics
-location: Kalamata, Greece, Greece
+location: Kalamata, Greece
 link: http://noether.math.uoa.gr/conferences/m3st2015/
 type: conference
 ---

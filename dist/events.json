@@ -9,7 +9,7 @@
         "endDate": "2016-06-30T00:00:00.000Z",
         "researchFields": "Education of Mathematics",
         "location": "Athens, Greece",
-        "link": "http://www.nature.com/natureevents/science/events/38193-10th_Annual_International_Conference_on_Mathematics_Teaching_Theory_Applications",
+        "link": null,
         "type": "conference"
       },
       "html": ""
@@ -47,8 +47,8 @@
         "title": "10th International Conference on Algorithms and Complexity",
         "subTitle": "",
         "image": null,
-        "startDate": "2017-05-26T00:00:00.000Z",
-        "endDate": "2017-05-28T00:00:00.000Z",
+        "startDate": "2017-05-24T00:00:00.000Z",
+        "endDate": "2017-05-26T00:00:00.000Z",
         "researchFields": "Applied Mathematics",
         "location": "Athens, Greece",
         "link": "http://www.corelab.ntua.gr/ciac2017/",
@@ -162,7 +162,7 @@
         "startDate": "2016-05-27T00:00:00.000Z",
         "endDate": "2016-05-29T00:00:00.000Z",
         "researchFields": "Analysis",
-        "location": "Heraklion, Crete, Greece",
+        "location": "Heraklion, Greece",
         "link": "http://fourier.math.uoc.gr/pcma2016/",
         "type": "conference"
       },
@@ -205,7 +205,7 @@
         "endDate": "2011-04-30T00:00:00.000Z",
         "researchFields": "Applied Mathematics",
         "location": "Paphos, Cyprus",
-        "link": "http://www.math.tu-dresden.de/IW-LGK-11/",
+        "link": null,
         "type": "conference"
       },
       "html": ""
@@ -422,7 +422,7 @@
     },
     {
       "meta": {
-        "title": "4th Summer School on Operator Theory",
+        "title": "4th Summer School in Operator Theory",
         "subTitle": "",
         "image": null,
         "startDate": "2015-07-06T00:00:00.000Z",
@@ -471,7 +471,7 @@
         "endDate": "2016-07-30T00:00:00.000Z",
         "researchFields": "Analysis",
         "location": "Athens, Greece",
-        "link": "http://users.uoa.gr/~akatavol/5school.html",
+        "link": null,
         "type": "conference"
       },
       "html": ""
@@ -479,13 +479,13 @@
     {
       "meta": {
         "title": "6th International Conference on Numerical Analysis",
-        "subTitle": "",
+        "subTitle": "In memory of professor Emeritus Theodore S. Papatheodorou.",
         "image": null,
         "startDate": "2014-09-02T00:00:00.000Z",
         "endDate": "2014-09-05T00:00:00.000Z",
         "researchFields": "Numerical Analysis",
-        "location": "Chania, Crete, Greece",
-        "link": "http://numan2014.amcl.tuc.gr/venue.php",
+        "location": "Chania, Greece",
+        "link": "http://numan2014.amcl.tuc.gr/index.php",
         "type": "conference"
       },
       "html": ""
@@ -720,7 +720,7 @@
         "subTitle": "",
         "image": null,
         "startDate": "2015-07-20T00:00:00.000Z",
-        "endDate": "2015-07-23T00:00:00.000Z",
+        "endDate": "2015-07-24T00:00:00.000Z",
         "researchFields": "Applied Mathematics",
         "location": "Kalamata, Greece",
         "link": "http://www.singacom.uva.es/ACA2015/program.html",
@@ -862,7 +862,7 @@
         "startDate": "2013-06-03T00:00:00.000Z",
         "endDate": "2013-06-07T00:00:00.000Z",
         "researchFields": "Ergodic Theory",
-        "location": "Heraklion, Crete, Greece",
+        "location": "Heraklion, Greece",
         "link": "http://fourier.math.uoc.gr/~ergodic/",
         "type": "conference"
       },
@@ -1002,7 +1002,7 @@
         "startDate": "2014-12-20T00:00:00.000Z",
         "endDate": "2014-12-22T00:00:00.000Z",
         "researchFields": "Statistics",
-        "location": "Kalamata, Greece",
+        "location": "Athens, Greece",
         "link": "http://www.stochastics.gr/meetings/zeta/index.html",
         "type": "conference"
       },
@@ -1058,7 +1058,7 @@
         "startDate": "2013-09-16T00:00:00.000Z",
         "endDate": "2013-09-20T00:00:00.000Z",
         "researchFields": "Applied Mathematics",
-        "location": "Heraklion, Crete, Greece",
+        "location": "Heraklion, Greece",
         "link": "http://www.acmac.uoc.gr/ICAM2013/symposia.php?demo=1#ASPS",
         "type": "conference"
       },
@@ -1156,7 +1156,7 @@
         "startDate": "2015-08-30T00:00:00.000Z",
         "endDate": "2015-09-01T00:00:00.000Z",
         "researchFields": "Applied Mathematics",
-        "location": "Kalamata, Greece, Greece",
+        "location": "Kalamata, Greece",
         "link": "http://noether.math.uoa.gr/conferences/m3st2015/",
         "type": "conference"
       },
@@ -1422,7 +1422,7 @@
         "startDate": "2014-09-24T00:00:00.000Z",
         "endDate": "2014-09-24T00:00:00.000Z",
         "researchFields": "Applied Mathematics",
-        "location": "Heraklion, Crete, Greece",
+        "location": "Heraklion, Greece",
         "link": "http://users.tem.uoc.gr/~danton/workshop_24-9-14.html",
         "type": "conference"
       },

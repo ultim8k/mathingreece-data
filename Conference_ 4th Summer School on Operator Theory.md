@@ -1,5 +1,5 @@
 ---
-title: "4th Summer School on Operator Theory"
+title: "4th Summer School in Operator Theory"
 subTitle: ""
 image:
 startDate: 2015-07-06
