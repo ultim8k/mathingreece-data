@@ -128,6 +128,20 @@
     },
     {
       "meta": {
+        "title": "11th Panhellenic Logic Symposium",
+        "subTitle": "",
+        "image": null,
+        "startDate": "2017-07-12T00:00:00.000Z",
+        "endDate": "2017-07-16T00:00:00.000Z",
+        "researchFields": "Logic",
+        "location": "Delphi, Greece",
+        "link": "http://pls11.cs.ntua.gr/invited.html",
+        "type": "conference"
+      },
+      "html": ""
+    },
+    {
+      "meta": {
         "title": "12th AHA International Conference-Algebraic Hyperstructures and its Applications",
         "subTitle": "",
         "image": null,
