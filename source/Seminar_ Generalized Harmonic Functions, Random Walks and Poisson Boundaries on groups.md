@@ -1,5 +1,5 @@
 ---
-title: "Generalized Harmonic Functions, Random Walks and Poisson Boundaries on groups"
+title: "Generalized Harmonic Functions, Random Walks and Poisson Boundaries on groups Seminar"
 subTitle: ""
 image:
 researchFields: Analysis
