@@ -6,6 +6,6 @@ startDate: 2018-05-30
 endDate: 2018-06-03
 researchFields: Applied Mathematics
 location: Samos, Greece
-link: 
+link: http://actuarweb.aegean.gr/samos2018/
 type: conference
 ---
