@@ -5,7 +5,7 @@ image:
 startDate: 2017-08-28
 endDate: 2017-08-31
 researchFields: Applied Mathematics
-location: Pafos, Greece
+location: Pafos, Cyprus
 link: http://www.icmsquare.net/
 type: conference
 ---
