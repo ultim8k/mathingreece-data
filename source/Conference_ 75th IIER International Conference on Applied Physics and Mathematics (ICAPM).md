@@ -6,6 +6,6 @@ startDate: 2016-08-04
 endDate: 2016-08-05
 researchFields: Applied Mathematics
 location: Athens, Greece
-link: http://theiier.org/Conference/Greece/1/ICAPM/
+link: 
 type: conference
 ---

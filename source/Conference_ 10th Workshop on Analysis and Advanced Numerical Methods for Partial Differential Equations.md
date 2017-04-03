@@ -1,6 +1,6 @@
 ---
 title: "10th Workshop on Analysis and Advanced Numerical Methods for Partial Differential Equations"
-subTitle: ""
+subTitle: "In memoriam of Professor Karl-Josef Witsch."
 image:
 startDate: 2017-10-02
 endDate: 2017-10-06

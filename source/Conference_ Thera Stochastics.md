@@ -1,6 +1,6 @@
 ---
 title: "Thera Stochastics"
-subTitle: "A Mathematics Conference in Honor of Ioannis Karatzas"
+subTitle: "A Mathematics Conference in Honor of Ioannis Karatzas."
 image:
 startDate: 2017-05-31
 endDate: 2017-06-02

@@ -6,6 +6,6 @@ startDate: 2012-07-23
 endDate: 2012-07-28
 researchFields: Analysis
 location: Karlovassi, Samos, Greece
-link: https://sot2012.pns.aegean.gr/
+link: 
 type: conference
 ---
