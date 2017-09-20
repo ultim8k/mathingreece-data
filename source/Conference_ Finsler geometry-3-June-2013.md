@@ -6,7 +6,7 @@ startDate: 2013-06-03
 endDate: 2013-06-09
 researchFields: Geometry, Topology
 location: Karlovassi, Samos, Greece
-link: http://myria.math.aegean.gr/conferences/finsler13/
+link: 
 type: conference
 ---
 

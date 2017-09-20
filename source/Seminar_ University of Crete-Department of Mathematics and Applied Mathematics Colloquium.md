@@ -4,6 +4,6 @@ subTitle: ""
 image:
 researchFields: Analysis, Algebra, Geometry, Applied Mathematics
 location: Heraklion, Greece
-link: http://fourier.math.uoc.gr/~seminar/colloquium.php
+link: http://www.math.uoc.gr/el/seminars.html
 type: seminar
 ---
