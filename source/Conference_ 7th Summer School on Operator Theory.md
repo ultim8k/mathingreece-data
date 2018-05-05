@@ -6,6 +6,6 @@ startDate: 2018-07-09
 endDate: 2018-07-14
 researchFields: Analysis
 location: Athens, Greece
-link: 
+link: http://users.uoa.gr/%7Eakatavol/7school/schoolgr.html
 type: conference
 ---
