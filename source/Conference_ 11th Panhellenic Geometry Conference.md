@@ -6,6 +6,6 @@ startDate: 2013-05-31
 endDate: 2013-06-02
 researchFields: Geometry
 location: Athens, Greece
-link: http://users.uoa.gr/~iandroul/GeomPanhel_Ath2013.html
+link: 
 type: conference
 ---

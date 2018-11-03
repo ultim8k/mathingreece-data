@@ -6,6 +6,6 @@ startDate: 2015-06-24
 endDate: 2015-06-26
 researchFields: Statistics
 location: Athens, Greece
-link: http://stat-athens.aueb.gr/~athens-meeting-stats/
+link: 
 type: conference
 ---
