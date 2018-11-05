@@ -6,6 +6,6 @@ startDate: 2018-05-24
 endDate: 2018-05-25
 researchFields: Applied Mathematics
 location: Larnaca, Cyprus
-link: http://www.mas.ucy.ac.cy/~xenophon/workshop/
+link: 
 type: conference
 ---
