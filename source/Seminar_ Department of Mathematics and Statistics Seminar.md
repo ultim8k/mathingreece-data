@@ -4,6 +4,6 @@ subTitle: ""
 image:
 researchFields: Analysis, Algebra, Geometry, Logic, Statistics, Probability, Applied Mathematics
 location: Lefkosia, Cyprus
-link: http://www.mas.ucy.ac.cy/~ieronev/index.htm
+link: http://www.mas.ucy.ac.cy/~tziolas/Seminar/seminar.html
 type: seminar
 ---
