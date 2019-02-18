@@ -6,6 +6,6 @@ startDate: 2017-09-25
 endDate: 2017-09-30
 researchFields: Numerical Analysis, Applied Mathematics
 location: Thessaloniki, Greece
-link: http://icnaam.org/
+link: 
 type: conference
 ---
