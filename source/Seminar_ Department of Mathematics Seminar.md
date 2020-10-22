@@ -4,6 +4,6 @@ subTitle: ""
 image:
 researchFields: Analysis, Algebra, Geometry, Logic, Statistics, Probability, Applied Mathematics
 location: Ioannina, Greece
-link: http://www.math.uoi.gr/index.php/2016-03-09-09-52-35
+link: https://math.uoi.gr/index.php/2016-03-09-09-52-35
 type: seminar
 ---
