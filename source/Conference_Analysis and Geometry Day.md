@@ -1,6 +1,6 @@
 ---
 title: "Analysis and Geometry Day"
-subTitle: "Awarding the prize of excellence in memory of Professor Michalis Marias"
+subTitle: "Awarding the Prize of Excellence in memory of Professor Michalis Marias."
 image:
 startDate: 2020-11-25
 endDate: 2020-11-25
