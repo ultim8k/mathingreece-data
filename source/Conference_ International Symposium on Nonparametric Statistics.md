@@ -2,10 +2,10 @@
 title: "International Symposium on Nonparametric Statistics"
 subTitle: ""
 image:
-startDate: 2021-06-14
-endDate: 2021-06-18
+startDate: 2022-06-20
+endDate: 2022-06-24
 researchFields: Statistics
 location: Paphos, Cyprus
-link: http://cyprusconferences.org/isnps2020/
+link: http://cyprusconferences.org/isnps2022/
 type: conference
 ---
