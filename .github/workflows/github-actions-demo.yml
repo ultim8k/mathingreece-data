@@ -14,13 +14,13 @@ jobs:
       - name: deploy
         run:
           export SECRET_CSV_HEADER='User Name,Password,Access key ID,Secret access key,Console login link';
-          export SECRET_CSV_BODY='deploy-pipeline,,'${{ secrets.AWS_ACCESS_KEY_ID }}','${{ secrets.AWS_SECRET_ACCESS_KEY }}','${{ secrets.AWS_CONSOLE_URL }};
+          export SECRET_CSV_BODY='deploy-pipeline,,'${{ secrets.AWS_ACCESS_KEY_ID }}','${{ secrets.AWS_SECRET_ACCESS_KEY }}',https://860967573428.signin.aws.amazon.com/console';
           echo $SECRET_CSV_HEADER >> user.csv;
           echo $SECRET_CSV_BODY >> user.csv;
           aws configure import --csv file://user.csv;
           rm user.csv;
-          aws s3 cp dist/ s3://${{secrets.S3_BUCKET_NAME}}/dist --recursive --region=${{secrets.AWS_REGION}} --profile=deploy-pipeline;
+          aws s3 cp dist/ s3://${{secrets.S3_BUCKET_NAME}}/dist --recursive --region=${{secrets.AWS_DEFAULT_REGION}} --profile=deploy-pipeline;
       - name: invalidate-CDN
         run:
           aws configure set preview.cloudfront true;
-          aws cloudfront create-invalidation --distribution-id ${{secrets.CLOUDFRONT_DISTRIBUTION_ID}} --paths "/*" --region=${{secrets.AWS_REGION}} --profile=deploy-pipeline;
+          aws cloudfront create-invalidation --distribution-id ${{secrets.CLOUDFRONT_DISTRIBUTION_ID}} --paths "/*" --region=${{secrets.AWS_DEFAULT_REGION}} --profile=deploy-pipeline;
