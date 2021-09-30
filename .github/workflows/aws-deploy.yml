@@ -1,0 +1,27 @@
+name: MathInGreece-Deploy
+on:
+  push:
+    branches:
+      - master
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    env:
+      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      AWS_DEFAULT_REGION: ${{ secrets.AWS_REGION }}
+    steps:
+      - uses: actions/checkout@v2
+      - name: compile
+        run:
+          npm install -g gr-math-events-md2json;
+          mathconify;
+          echo "Here is the mathconify output";
+          cat dist/events.json;
+      - name: deploy
+        run:
+          aws s3 cp dist/ s3://${{secrets.S3_BUCKET_NAME}} --recursive;
+      - name: invalidate-CDN
+        run:
+          aws configure set preview.cloudfront true;
+          aws cloudfront create-invalidation --distribution-id ${{secrets.CLOUDFRONT_DISTRIBUTION_ID}} --paths "/*";
